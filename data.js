@@ -77,20 +77,20 @@ var q = [
 	'How do you know people want this?',
 	'What do you know about this space/product others don&#39;t know?',
 	'Are you all going to work full time?',
-	'What’s stopping other companies from replicating this?',
-	'Can’t one of the EMR companies easily replicate what you’re doing and do it better? ',
+	'Whats stopping other companies from replicating this?',
+	'Cant one of the EMR companies easily replicate what youre doing and do it better? ',
 	'How are you specifically going to monetize the data?',
 	'Explain how this will help resources allocation for ventilators?',
 	'What is the IP you have filed for?',
 	'Have you tested if this IP (personas) actually impacts ACP?',
 	'Who is going to do the machine learning coding for your IP?',
 	'Walk me through an ACP conversation.',
-	'We all did our advance directives through our lawyers. Why aren’t you engaging estate planning lawyers?',
-	'Why aren’t you including other end of life features - wills, passwords, burials, etc?',
+	'We all did our advance directives through our lawyers. Why arent you engaging estate planning lawyers?',
+	'Why arent you including other end of life features - wills, passwords, burials, etc?',
 	'How are you going to make this a billion dollar company?',
 	'What exactly is this codevelopment deal with Wake Forest?',
-	'What are Koda’s metrics for success?',
-	'Desh - you said you won’t be working on this exclusively - why?'
+	'What are Kodas metrics for success?',
+	'Desh - you said you wont be working on this exclusively - why?'
 
 ];
 
