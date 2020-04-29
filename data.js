@@ -90,7 +90,7 @@ var q = [
 	'How are you going to make this a billion dollar company?',
 	'What exactly is this codevelopment deal with Wake Forest?',
 	'What are Kodas metrics for success?',
-	'Desh - you said you wont be working on this exclusively - why?'
+	'Desh - you said you wont be working on this exclusively - why?',
 	'What are the reasons you will fail? ',
 	'Youre a time traveler - and 6 months into the future you fail - why did this happen?',
 	'What happens if Google copies you and builds the same thing?',
