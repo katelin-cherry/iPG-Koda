@@ -15,6 +15,7 @@ var q = [
 	'How are you understanding customer needs?',
 	'How will you get users?',
 	'Who would you hire or how would you add to your team?',
+
 	'So what are you working on?',
 	'Do you have a demo?',
 	'Where is the rocket science here?',
@@ -64,6 +65,7 @@ var q = [
 	'What systems have you hacked?',
 	'Tell us about a tough problem you solved?',
 	'In what ways are you resourceful?',
+	'Will you reincorporate as a US company?',
 	'Will your team stick at this?',
 	'Tell us something surprising you have done?',
 	'What&#39;s the funniest thing that has happened to you?',
@@ -74,36 +76,9 @@ var q = [
 	'What is the next step with the product evolution?',
 	'Have you raised funding?',
 	'Who would be your next hire?',
+
 	'How do you know people want this?',
-	'What do you know about this space/product others don&#39;t know?',
-	'Are you all going to work full time?',
-	// 'Whats stopping other companies from replicating this?',
-	// 'Cant one of the EMR companies easily replicate what youre doing and do it better? ',
-	// 'How are you specifically going to monetize the data?',
-	// 'Explain how this will help resources allocation for ventilators?',
-	// 'What is the IP you have filed for?',
-	// 'Have you tested if this IP (personas) actually impacts ACP?',
-	// 'Who is going to do the machine learning coding for your IP?',
-	// 'Walk me through an ACP conversation.',
-	// 'We all did our advance directives through our lawyers. Why arent you engaging estate planning lawyers?',
-	// 'Why arent you including other end of life features - wills, passwords, burials, etc?',
-	// 'How are you going to make this a billion dollar company?',
-	// 'What exactly is this codevelopment deal with Wake Forest?',
-	// 'What are Kodas metrics for success?',
-	// 'Desh - you said you wont be working on this exclusively - why?',
-	// 'What are the reasons you will fail? ',
-	// 'Youre a time traveler - and 6 months into the future you fail - why did this happen?',
-	// 'What happens if Google copies you and builds the same thing?',
-	// 'What hurdles or barriers will get in the way?',
-	// 'What are your cofounders flaws?',
-	// 'Impressive thing you have done since starting the company?',
-	// 'Why do people need this now?',
-	// 'Why are you the best team to build this? Why are you the right team to build this?',
-	// 'What are some things you dont know?',
-	// 'What do you understand about your users?',
-	// 'Is this a hard product to build?'
-
-
+	'What do you know about this space/product others don&#39;t know?'
 ];
 
 // Tips
