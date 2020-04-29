@@ -91,6 +91,18 @@ var q = [
 	'What exactly is this codevelopment deal with Wake Forest?',
 	'What are Kodas metrics for success?',
 	'Desh - you said you wont be working on this exclusively - why?'
+	'What are the reasons you will fail? ',
+	'Youre a time traveler - and 6 months into the future you fail - why did this happen?',
+	'What happens if Google copies you and builds the same thing?',
+	'What hurdles or barriers will get in the way?',
+	'What are your cofounders flaws?',
+	'Impressive thing you have done since starting the company?',
+	'Why do people need this now?',
+	'Why are you the best team to build this? Why are you the right team to build this?',
+	'What are some things you dont know?',
+	'What do you understand about your users?',
+	'Is this a hard product to build?'
+
 
 ];
 
